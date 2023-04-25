@@ -1,0 +1,13 @@
+<style>
+    /* create a style for the text */
+    h1 {
+        color: white;
+        font-size: 5rem;
+        text-shadow: 5px 5px 0px #FF0000, 10px 10px 0px #0000FF;
+    }
+</style>
+
+<body>
+    <h1>Hello World!</h1>
+</body>
+
